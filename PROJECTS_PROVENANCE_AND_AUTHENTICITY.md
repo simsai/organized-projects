@@ -1,10 +1,8 @@
 # Forensic Provenance & Authenticity Report: Proof of Human Authorship Pre-Dating Generative AI
 
 **Subject:** Technical & Forensic Verification of Pre-AI Origin and Human Authorship  
-**Developer / Author:** simsai  
-**Analyzed Repository:** `C:\Users\simsa\Desktop\copied from old pc`  
-**Consolidated Directory:** `C:\Users\simsa\Desktop\Organized_Projects`  
-**Report Date:** October 14, 2026  
+ 
+
 
 ---
 
@@ -109,7 +107,7 @@ Inside the user's home folder from the old machine, the file `PyWhatKit_DB.txt` 
 ```text
 Date: 19/4/2022
 Time: 16:27
-Phone Number: +918722266663
+Phone Number: xxxxxxxxxx
 Message: hello
 --------------------
 ```
